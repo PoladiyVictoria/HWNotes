@@ -1,6 +1,6 @@
 from datetime import datetime
 import uuid
-import Controller.counter as counter
+import service.Counter as counter
 
 
 class Note:
