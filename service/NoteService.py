@@ -1,5 +1,5 @@
-import loadFromFile as lF
-import writeToFile as wF
+import service.loadFromFile as lF
+import service.writeToFile as wF
 import data.Note
 
 def add_note():
